@@ -1,0 +1,14 @@
+credential.helper=osxkeychain
+user.name=scorchy38
+user.email=vkumarsaraswat@gmail.com
+core.excludesfile=~/.gitignore_global
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.ignorecase=true
+core.precomposeunicode=true
+remote.main.url=https://github.com/scorchy38/logovidgen-api.git
+remote.main.fetch=+refs/heads/*:refs/remotes/main/*
+branch.main.remote=main
+branch.main.merge=refs/heads/main
