@@ -12,7 +12,7 @@ decorator==4.4.2
 filelock==3.12.2
 firebase-admin==6.1.0
 Flask
-fsspec==2023.6.0
+fsspec
 google-api-core==2.11.1
 google-api-python-client==2.90.0
 google-auth==2.20.0
